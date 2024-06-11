@@ -1,2 +1,2 @@
 # APEX-MD
-A Simple Multi-Device Whatsapp Bot With Cool Features😈.Developed By BitXᵀᴹ🇱🇰.
+<h2>Comming Soon...</h2>

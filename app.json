@@ -1,7 +1,7 @@
 {
   "name": "APEX-MD WHATSAPP BOT BY Team BitX",
   "description": "A Multi-Device Whatsapp Bot By Team BitX",
-  "logo": "https://telegra.ph/file/e5768d0b5a4441b4e576b.jpg",
+  "logo": "https://i.ibb.co/hmDY2Bt/20240612-165655.jpg",
   "keywords": [
     "nodejs",
     "bot",
@@ -17,8 +17,8 @@
   "stack": "container",
   "env": {
     "OWNER_NAME": {
-      "description": "Name of Bot Owner",
-      "value": "Maher Zubair"
+      "description": "Ur Name",
+      "value": "Team BitX 😈"
     },
     "THUMB_IMAGE": {
       "description": "THUMBNAIL Image for bot.",

@@ -9,7 +9,7 @@
       "stop": "pm2 stop APEX-MD"
   },
   "author": "Team-Bit-X",
-  "license": "Apache-2.0",
+  "license": "MIT License",
   "keywords": [
       "bot",
       "Whatsapp bot",

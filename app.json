@@ -22,7 +22,7 @@
     },
     "THUMB_IMAGE": {
       "description": "THUMBNAIL Image for bot.",
-      "value": "https://telegra.ph/file/03e49e6e2057568db8926.jpg"
+      "value": "https://camo.githubusercontent.com/e121cf6a5f90afa17780def306c768ffd55cfa13253ad9992f8cd5c62a2ffd09/68747470733a2f2f74656c656772612e70682f66696c652f3535343335623666613035363332303462376235612e6a7067"
     },
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
@@ -40,7 +40,7 @@
     },
     "ANTI_BAD_WORDS": {
       "description": "Add Anti Bad_Words. Change or add according to your need",
-      "value": "Fuck,porn,sex,xxx,fucker,asshole,fuck you,fuck off",
+      "value": "Fuck,porn,sex,xxx,fucker,asshole,fuck you,fuck off,hutta,ponnya,paka,pakaya,kariya,hukamu,hukapan",
       "required": false
     },
     "MSGS_IN_LOG": {
@@ -59,7 +59,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923466319114"
+      "value": "9412345678"
     },
     "SESSION_ID": {
       "description": "Please put your SESSION_ID here,if you don't have visit to get Session id\nhttps://sessions.maher-zubair.tech"
@@ -79,26 +79,27 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "sɪɢᴍᴀ-ᴍᴅ",
+      "value": "​🇦​​🇵​​🇪​​🇽​-​🇲​​🇩​",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author Name.",
-      "value": "ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ",
+      "value": "​🇹​​🇪​​🇦​​🇲​ ​🇧​​🇮​​🇹​ ​🇽​",
       "required": false
     },
     "MZTIT": {
       "description": "Add Your Title, One Word Will BE More Better And BeautiFul",
-      "value": "🅼♥︎❚❚♥︎🆉",
+      "value": "> ᴀᴘᴇx-ᴍᴅ
+ʙʏ ᴛᴇᴀᴍ ʙɪᴛ x",
       "required": false
     },
     "TIME_ZONE": {
       "description": "Add Your TimeZone. make sure the timzone is correct/Otherwise you will have errors",
-      "value": "Asia/Karachi"
+      "value": "Asia/Colombo"
     },
     "BOT_NAME": {
       "description": "Add Your Own Bot Name",
-      "value": "sɪɢᴍᴀ-ᴍᴅ"
+      "value": "​🇦​​🇵​​🇪​​🇽​-​🇲​​🇩​"
     }
   },
   "addons": [
